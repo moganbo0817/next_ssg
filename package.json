@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "matter": "^0.2.0"
+  }
+}
